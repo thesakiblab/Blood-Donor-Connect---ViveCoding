@@ -1,0 +1,5 @@
+{
+  "name": "Blood Donor Connect",
+  "description": "A web application to connect blood donors with those in need. Users can register, update their profiles, and search for donors. An admin dashboard provides user management and analytics, and a chat feature facilitates communication.",
+  "requestFramePermissions": []
+}
